@@ -1,0 +1,15 @@
+ <div>
+      <div className="ArtSearch">
+    <div className="row">
+        {props.Art.map((p) => (
+          <img
+          key={p.id}
+          className="imageGrid"
+          src={p.url}
+          alt={p.title}
+          onClick={(e) => handleClick(p)}
+          />
+        ))}
+        </div>
+      </div>
+    </div>
