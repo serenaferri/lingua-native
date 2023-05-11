@@ -1,10 +1,10 @@
 body{
-    background-color: lightcoral;
+    background-color: lightyellow;
 }
 
 h1 {
     text-align: center;
-    color: pink;
+    color: black;
     font-family: serif;
     
 }
@@ -14,4 +14,5 @@ h1 {
     padding: 30px;
     margin: auto;
     column-count: auto;
+
 }
