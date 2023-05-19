@@ -18,7 +18,7 @@ OBJECTIVES
 * Starting a back-end
 -----------------------------------------------------------
 1. CSS
-* Fixing the boxes so the are in line with the Art description and the description is centered
+* Fixing the boxes so they are in line with the Art description and the description is centered
 * Changing the colours of the body and title
 ------------------------------------------------------------------------------------------------
 2. EMAIL BOX
