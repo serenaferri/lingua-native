@@ -1,4 +1,3 @@
-# lingua-native
 # art-search
 
 INSTALLATION
