@@ -22,12 +22,12 @@ OBJECTIVES
 * Changing the colours of the body and title
 ------------------------------------------------------------------------------------------------
 2. EMAIL BOX
-* Add functionality
+* Add functionalities
 * This box should have a "SUBMIT" button
 ---------------------------------------------------------------------------------------------------
 4. BACK-END
 * Starting a back-end to create a user login/sign up boxes
-* Add functionality
+* Add functionalities
 
 
 
